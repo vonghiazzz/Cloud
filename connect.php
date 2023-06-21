@@ -35,5 +35,5 @@
         }
     }
     // //test connect
-    $conn = mysqli_connect('localhost','root','','atn') or die("can not connect database" .mysqli_connect_error());
+    $conn = mysqli_connect('vkh7buea61avxg07.cbetxkdyhwsb.us-east-1.rds.amazonaws.com','jaw1cplxdznwevu4','w9mvmzzr3m6w2q2v','zxhowk6gl6iu8f8h') or die("can not connect database" .mysqli_connect_error());
 ?>
