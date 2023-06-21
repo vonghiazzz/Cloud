@@ -7,10 +7,10 @@
 
         public function __construct()
         {
-            $this->server ="localhost";
-            $this->user ="root";
-            $this->password ="";
-            $this->dbname = "atn";
+            $this->server ="vkh7buea61avxg07.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
+            $this->user ="jaw1cplxdznwevu4";
+            $this->password ="w9mvmzzr3m6w2q2v";
+            $this->dbname = "zxhowk6gl6iu8f8h";
         }
         //option 1: use mySQLi
         function connectToMySQL(): mysqli{
