@@ -3,7 +3,7 @@
 ?>
 <div id="main" class="container">
     <div class="page-heading pb-2 mt-4 mb-2">
-    <h1>Product Management</h1>
+    <h1>Product Manage</h1>
     </div>
     <?php
         include_once("connect.php");
