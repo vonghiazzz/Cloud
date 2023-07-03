@@ -7,7 +7,7 @@
 
         public function __construct()
         {
-            $this->server ="ble5mmo2o5v9oouq.cbetxkdyhwsb.us-east-1.rds.amazonaws.com   ";
+            $this->server ="ble5mmo2o5v9oouq.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
             $this->user ="l5fihvvl8qrhw5nk";
             $this->password ="vlruyt655hiicqeo";
             $this->dbname = "saxflxlyujv02qq2";
